@@ -1,0 +1,21 @@
+{
+  "name": "net.koodaa.unity-diary",
+  "version": "0.1.0",
+  "displayName": "Unity Diary",
+  "description": "Asks diary record once per week",
+  "unity": "6000.0",
+  "unityRelease": "34f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {},
+  "keywords": [
+    "diary",
+    "jamk"
+  ],
+  "author": {
+    "name": "Tero Korpela",
+    "email": "tero.korpela@gmail.com",
+    "url": "https://terokorp.github.io/"
+  }
+}

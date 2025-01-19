@@ -1,0 +1,1 @@
+This is a tool that asks diary record when week changes.
